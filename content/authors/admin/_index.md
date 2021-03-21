@@ -74,8 +74,10 @@ user_groups:
 - Visitors
 ---
 
-I'm a rstats educator and researcher of waste and livelihoods. Right now, full time Assistant Professor in the Travel and Tourism department of [Vishwakarma University](https://www.vupune.ac.in/) - Pune, India. 
+I love teaching data science using [R](https://www.r-project.org/) statistical language. 
 
-I further like to teach research methods (quantitative as well as qualitative) using [R](https://www.r-project.org/). I support open-source software R to promote reproducibility and transparency in research and academia.
+My R workshops, student's feedback and tutorial slides are available at my website [R4Bee](https://r4b.netlify.app/). I heartily support open-source softwares like R to promote reproducibility and transparency in research and academia.
 
-I like to read, write and think about the sustainability and climate change.
+I care a lot about climate change. My research interests include waste livelihoods & sustainability.
+
+Right now, I'm a full time Assistant Professor at the Department of Travel & Tourism, [Vishwakarma University](https://www.vupune.ac.in/) - Pune, India. I teach research methods (quantitative as well as qualitative) using and Marketing. 
